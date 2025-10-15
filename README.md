@@ -7,8 +7,7 @@ This repository contains a Power BI dashboard that I personally developed to ana
 - Dynamic insights generation from raw data
 - Fully developed and published on Power BI Service
 
-
-![Dashboard Preview](Retail-and-Sales-Dashboard.png)  
+(Retail and Sales Dashboard.png)  
 *A preview of the dashboard interface *
 
 ## 📖 Overview  
